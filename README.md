@@ -3,7 +3,7 @@ leet code FB tag Oct-Dec 2019
 
 尝试总结一下最近的高频题
 ## [LC 125 Palindrome 镜像字](https://github.com/azl397985856/leetcode/blob/master/problems/125.valid-palindrome.md)
-## [lc 953
+## [lc 953 Verifying an Alien Dictionary 外星人字典]()
 ## [lc 215
 ## [lc 253
 ## [lc 301
