@@ -38,7 +38,7 @@ Once we have a window with all the characters, we can move the left pointer ahea
 
 If the window is not desirable any more, we repeat step \; 2step2 onwards.
 
-```java
+```
 class Solution {
   public String minWindow(String s, String t) {
 
