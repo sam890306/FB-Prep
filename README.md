@@ -6,7 +6,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 953 Verifying an Alien Dictionary 外星人字典](https://github.com/sam890306/FB-Prep/blob/master/lc953.md)
 ## [lc 215 Kth Largest Element in an Array 无序的数组中，返回第K大的数](https://github.com/azl397985856/leetcode/blob/master/problems/215.kth-largest-element-in-an-array.md)
 ## [lc 253 Meeting Rooms II 安排会议室](https://github.com/sam890306/FB-Prep/blob/master/lc-253.md)
-## [lc 301](https://github.com/azl397985856/leetcode/blob/master/problems/301.remove-invalid-parentheses.md)
+## [lc 301 Remove Invalid Parentheses 去掉非法括弧](https://github.com/azl397985856/leetcode/blob/master/problems/301.remove-invalid-parentheses.md)
 ## [lc 419
 ## [lc 350
 ## [lc 67
