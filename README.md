@@ -11,7 +11,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 350  Intersection of Two Arrays II 找出两数组间相同值](https://github.com/sam890306/FB-Prep/blob/master/lc-350.md)
 ## [lc 67 Add Binary 二进制相加](https://github.com/sam890306/FB-Prep/blob/master/lc-67.md)
 ## [lc 76 minimum-window-substring](https://github.com/sam890306/FB-Prep/blob/master/lc-76.md)
-## [lc 88
+## [lc 88 Merge Sorted Array](https://github.com/azl397985856/leetcode/blob/master/problems/88.merge-sorted-array.md)
 ## [lc 98
 ## [lc 124
 ## [lc 133
