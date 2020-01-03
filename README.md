@@ -10,7 +10,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 419 Battle Ship 战舰战棋游戏](https://github.com/sam890306/FB-Prep/blob/master/lc%20419.md)
 ## [lc 350  Intersection of Two Arrays II 找出两数组间相同值](https://github.com/sam890306/FB-Prep/blob/master/lc-350.md)
 ## [lc 67 Add Binary 二进制相加](https://github.com/sam890306/FB-Prep/blob/master/lc-67.md)
-## [lc 76
+## [lc 76 minimum-window-substring]()
 ## [lc 88
 ## [lc 98
 ## [lc 124
