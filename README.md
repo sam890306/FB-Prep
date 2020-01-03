@@ -9,7 +9,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 301 Remove Invalid Parentheses 去掉非法括弧](https://github.com/azl397985856/leetcode/blob/master/problems/301.remove-invalid-parentheses.md)
 ## [lc 419 Battle Ship 战舰战棋游戏](https://github.com/sam890306/FB-Prep/blob/master/lc%20419.md)
 ## [lc 350 找出两数组间相同值](https://github.com/sam890306/FB-Prep/blob/master/lc-350.md)
-## [lc 67
+## [lc 67 Add Binary](https://github.com/sam890306/FB-Prep/blob/master/lc-67.md)
 ## [lc 76
 ## [lc 88
 ## [lc 98
