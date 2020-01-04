@@ -19,31 +19,31 @@ leet code FB tag Oct-Dec 2019
 ## [lc 238 Product of Array Except Self](https://github.com/azl397985856/leetcode/blob/master/problems/238.product-of-array-except-self.md)  [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-238.md)
 ## [lc 269 Alien Dictionary 外星人字典](https://github.com/sam890306/FB-Prep/blob/master/lc-269.md)
 ## [lc 273 integer-to-english-words](https://github.com/sam890306/FB-Prep/blob/master/lc-273.md)
-## [lc 278
-## [lc 282
-## [lc 297
-## [lc 304
-## [lc 314
-## [lc 340
-## [lc 560 subarray-sum-equals-k](https://github.com/azl397985856/leetcode/blob/master/problems/560.subarray-sum-equals-k.md)
-## [lc 621
-## [lc 680
-## [lc 426
-## [lc 689
-## [lc 721
-## [lc 785
-## [lc 825
-## [lc 896
-## [lc 953
-## [lc 958
-## [lc 986
-## [lc 973
-## [lc 1249
-## [lc 158
-## [lc 438
-## [lc 523
-## [lc 199
-## [lc 23
+## [lc 278](https://github.com/sam890306/FB-Prep/blob/master/lc-278.md)
+## [lc 282](https://github.com/sam890306/FB-Prep/blob/master/lc-282.md)
+## [lc 297](https://github.com/sam890306/FB-Prep/blob/master/lc-297.md)
+## [lc 304](https://github.com/sam890306/FB-Prep/blob/master/lc-304.md)
+## [lc 314](https://github.com/sam890306/FB-Prep/blob/master/lc-314.md)
+## [lc 340](https://github.com/sam890306/FB-Prep/blob/master/lc-340.md)
+## [lc 560 subarray-sum-equals-k](https://github.com/azl397985856/leetcode/blob/master/problems/560.subarray-sum-equals-k.md) [[java]]
+## [lc 621 ](https://github.com/sam890306/FB-Prep/blob/master/lc-621.md) 
+## [lc 680 ](https://github.com/sam890306/FB-Prep/blob/master/lc-680.md)
+## [lc 426 ](https://github.com/sam890306/FB-Prep/blob/master/lc-426.md)
+## [lc 689 ](https://github.com/sam890306/FB-Prep/blob/master/lc-689.md)
+## [lc 721 ](https://github.com/sam890306/FB-Prep/blob/master/lc-721.md)
+## [lc 785 ](https://github.com/sam890306/FB-Prep/blob/master/lc-785.md)
+## [lc 825 ](https://github.com/sam890306/FB-Prep/blob/master/lc-825.md)
+## [lc 896 ](https://github.com/sam890306/FB-Prep/blob/master/lc-896.md)
+## [lc 953 ](https://github.com/sam890306/FB-Prep/blob/master/lc-953.md)
+## [lc 958 ](https://github.com/sam890306/FB-Prep/blob/master/lc-958.md)
+## [lc 986 ](https://github.com/sam890306/FB-Prep/blob/master/lc-986.md)
+## [lc 973 ](https://github.com/sam890306/FB-Prep/blob/master/lc-973.md)
+## [lc 1249](https://github.com/sam890306/FB-Prep/blob/master/lc-1249.md)
+## [lc 158 ](https://github.com/sam890306/FB-Prep/blob/master/lc-158.md)
+## [lc 438 ](https://github.com/sam890306/FB-Prep/blob/master/lc-438.md)
+## [lc 523 ](https://github.com/sam890306/FB-Prep/blob/master/lc-523.md)
+## [lc 199 binary-tree-right-side-view](https://github.com/azl397985856/leetcode/blob/master/problems/199.binary-tree-right-side-view.md) [[java]]()
+## [lc 23 merge-k-sorted-lists](https://github.com/azl397985856/leetcode/blob/master/problems/23.merge-k-sorted-lists.md) [[java]]()
 
 
 
