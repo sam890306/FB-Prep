@@ -16,7 +16,6 @@ leet code FB tag Oct-Dec 2019
 ## [lc 124 Binary Tree Max Path Sum](https://github.com/azl397985856/leetcode/blob/master/problems/124.binary-tree-maximum-path-sum.md)     [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-124.md)
 ## [lc 133 Clone Graph](https://github.com/sam890306/FB-Prep/blob/master/lc-133.md)
 ## [lc 211 Add and Search Word](https://github.com/sam890306/FB-Prep/blob/master/lc-211.md)
-## [lc 215  Kth Largest Element in an Array]
 ## [lc 238
 ## [lc 269
 ## [lc 273
