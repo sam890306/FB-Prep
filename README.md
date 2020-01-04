@@ -18,7 +18,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 211 Add and Search Word](https://github.com/sam890306/FB-Prep/blob/master/lc-211.md)
 ## [lc 238 Product of Array Except Self](https://github.com/azl397985856/leetcode/blob/master/problems/238.product-of-array-except-self.md)  [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-238.md)
 ## [lc 269 Alien Dictionary 外星人字典](https://github.com/sam890306/FB-Prep/blob/master/lc-269.md)
-## [lc 273 integer-to-english-words]()
+## [lc 273 integer-to-english-words](https://github.com/sam890306/FB-Prep/blob/master/lc-273.md)
 ## [lc 278
 ## [lc 282
 ## [lc 297
