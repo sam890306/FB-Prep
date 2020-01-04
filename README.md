@@ -25,7 +25,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 304 Range Sum Query 2D - Immutable](https://github.com/sam890306/FB-Prep/blob/master/lc-304.md)
 ## [lc 314  Binary Tree Vertical Order Traversal](https://github.com/sam890306/FB-Prep/blob/master/lc-314.md)
 ## [lc 340 Longest Substring with At Most K Distinct Characters](https://github.com/sam890306/FB-Prep/blob/master/lc-340.md)
-## [lc 560 subarray-sum-equals-k](https://github.com/azl397985856/leetcode/blob/master/problems/560.subarray-sum-equals-k.md) [[java]]
+## [lc 560 subarray-sum-equals-k](https://github.com/azl397985856/leetcode/blob/master/problems/560.subarray-sum-equals-k.md) [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-560.md)
 ## [lc 621 ](https://github.com/sam890306/FB-Prep/blob/master/lc-621.md) 
 ## [lc 680 ](https://github.com/sam890306/FB-Prep/blob/master/lc-680.md)
 ## [lc 426 ](https://github.com/sam890306/FB-Prep/blob/master/lc-426.md)
