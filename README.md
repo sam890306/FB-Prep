@@ -3,7 +3,7 @@ leet code FB tag Oct-Dec 2019
 
 尝试总结一下最近的高频题
 ## [LC 125 Palindrome 镜像字](https://github.com/azl397985856/leetcode/blob/master/problems/125.valid-palindrome.md)
-## [lc 953 Verifying an Alien Dictionary 外星人字典](https://github.com/sam890306/FB-Prep/blob/master/lc953.md)
+## [lc 953 Verifying an Alien Dictionary 验证外星人字典](https://github.com/sam890306/FB-Prep/blob/master/lc953.md)
 ## [lc 215 Kth Largest Element in an Array 无序的数组中，返回第K大的数](https://github.com/azl397985856/leetcode/blob/master/problems/215.kth-largest-element-in-an-array.md)
 ## [lc 253 Meeting Rooms II 安排会议室](https://github.com/sam890306/FB-Prep/blob/master/lc-253.md)
 ## [lc 301 Remove Invalid Parentheses 去掉非法括弧](https://github.com/azl397985856/leetcode/blob/master/problems/301.remove-invalid-parentheses.md) [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-301.md)
@@ -17,7 +17,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 133 Clone Graph](https://github.com/sam890306/FB-Prep/blob/master/lc-133.md)
 ## [lc 211 Add and Search Word](https://github.com/sam890306/FB-Prep/blob/master/lc-211.md)
 ## [lc 238 Product of Array Except Self](https://github.com/azl397985856/leetcode/blob/master/problems/238.product-of-array-except-self.md)  [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-238.md)
-## [lc 269
+## [lc 269 Alien Dictionary 外星人字典]()
 ## [lc 273
 ## [lc 278
 ## [lc 282
