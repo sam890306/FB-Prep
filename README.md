@@ -46,6 +46,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 987 Vertical Order Traversal of a Binary Tree](https://github.com/sam890306/FB-Prep/blob/master/lc-987.md)
 ## [lc 15 3Sum](https://github.com/sam890306/FB-Prep/blob/master/lc-15.md)
 ## [lc 71. Simplify Path](https://github.com/sam890306/FB-Prep/blob/master/lc-71.md)
+## [lc 56 Merge Intervals](https://github.com/sam890306/FB-Prep/blob/master/lc-56.md)
 
 
 
