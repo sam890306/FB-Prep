@@ -48,7 +48,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 71. Simplify Path](https://github.com/sam890306/FB-Prep/blob/master/lc-71.md)
 ## [lc 56 Merge Intervals](https://github.com/sam890306/FB-Prep/blob/master/lc-56.md)
 ## [lc 206 Reverse linked list](https://github.com/sam890306/FB-Prep/blob/master/lc-206.md)
-
+## [lc 692 Top K Frequent Words]https://github.com/sam890306/FB-Prep/blob/master/lc-692.md
 
 
 
