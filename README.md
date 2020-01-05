@@ -42,7 +42,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 438 Find All Anagrams in a String](https://github.com/sam890306/FB-Prep/blob/master/lc-438.md)
 ## [lc 523  Continuous Subarray Sum](https://github.com/sam890306/FB-Prep/blob/master/lc-523.md)
 ## [lc 199 binary-tree-right-side-view](https://github.com/azl397985856/leetcode/blob/master/problems/199.binary-tree-right-side-view.md) [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-199.md)
-## [lc 23 merge-k-sorted-lists](https://github.com/azl397985856/leetcode/blob/master/problems/23.merge-k-sorted-lists.md)
+## [lc 23 merge-k-sorted-lists](https://github.com/azl397985856/leetcode/blob/master/problems/23.merge-k-sorted-lists.md) [[java]](https://leetcode.wang/leetCode-23-Merge-k-Sorted-Lists.html)
 
 
 
