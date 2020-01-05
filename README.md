@@ -44,7 +44,7 @@ leet code FB tag Oct-Dec 2019
 ## [lc 199 binary-tree-right-side-view](https://github.com/azl397985856/leetcode/blob/master/problems/199.binary-tree-right-side-view.md) [[java]](https://github.com/sam890306/FB-Prep/blob/master/lc-199.md)
 ## [lc 23 merge-k-sorted-lists](https://github.com/azl397985856/leetcode/blob/master/problems/23.merge-k-sorted-lists.md) [[java]](https://leetcode.wang/leetCode-23-Merge-k-Sorted-Lists.html)
 ## [lc 987 Vertical Order Traversal of a Binary Tree](https://github.com/sam890306/FB-Prep/blob/master/lc-987.md)
-## [lc 15 3Sum]](https://github.com/sam890306/FB-Prep/blob/master/lc-15.md)
+## [lc 15 3Sum](https://github.com/sam890306/FB-Prep/blob/master/lc-15.md)
 ## [lc 71. Simplify Path](https://github.com/sam890306/FB-Prep/blob/master/lc-71.md)
 
 
